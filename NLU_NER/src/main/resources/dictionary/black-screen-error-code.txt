@@ -1,0 +1,40 @@
+0xc000000f
+Invalid Partition Table
+Default Boot Device Missing or Boot Failed
+Free DOS
+Error 1802:Unauthorized network card is plugged in
+Error 1962:No operating syste  found
+Error 0135:Fan failure
+Hard Disk:S.M.A.R.T. Status Bad
+BOOTMGR image is corrupt.The system cannot boot
+CMOS datetime not set 
+CMOS Battery Low CMOS Checksum Bad
+Error 00CE:Machine type and serial number are invalid
+Error 0162:Setup data integrity check failure
+Error 0164:Memory size decreaserd
+Primary master hard disk fail
+Realtek PCIe GBE Family Controller Series … DHCP…
+SMART Failure Predicted on Hard Disk 0
+The battery installed is not supported by this system
+Unauthorized Wireless network card is plugged in. Power off and remove it
+A disk read error occurred Press Ctrl+Alt+Del to restart
+CMOS Settings Wrong
+Error 0199:sytem security-secrtity password retry count exceded on last boot
+Error 0211:Keyboard not found
+floppy disk fail 
+A:drive error
+reboot and select proper boot device or insert boot media an selected boot device and press a key
+A Hyper Transport sync flood error occurred on last boot
+Error ATA Device configuration Change Has occurred
+Invalid system disk.Replace the disk,and then press any key
+PXE-MOFExiting PXE ROM
+Remove disks or other medie press any key to restart
+There has been a signature failure
+02F0:CPU ID55 No Microcode Update Loaded for Alternate Processor
+check media
+checking media
+ERROR 0200: Failure Fixed Disk 0
+Press esc for recovery menu
+This System does not support batteries that are not genuine Lenovo-Made or Authorized
+Missing operating system
+Error loading operating system
